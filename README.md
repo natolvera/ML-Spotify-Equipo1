@@ -16,7 +16,7 @@ Este repositorio está organizado para facilitar la navegación y la reproducibi
 notebooks/              # Jupyter notebooks con el código de análisis y modelado\
 └── tarea1_eda.ipynb    # Notebook de la Semana 1 con el EDA inicial\
 data/                   # Dataset original y archivos procesados\
-└── spotify_tracks.csv\
+└── dataset.csv\
 reports/                # Documentos, reportes y presentaciones finales\
 └── report_semana1.pdf  # Reporte inicial de la Semana 1\
 README.md               # Este documento\

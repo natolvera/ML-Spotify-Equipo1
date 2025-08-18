@@ -13,15 +13,14 @@ Elegimos el dataset de Spotify porque nos ofrece la oportunidad de trabajar con 
 ## 2. Estructura del Repositorio
 Este repositorio está organizado para facilitar la navegación y la reproducibilidad del proyecto.
 
-.
-├── notebooks/              # Jupyter notebooks con el código de análisis y modelado
-│   └── tarea1_eda.ipynb    # Notebook de la Semana 1 con el EDA inicial
-├── data/                   # Dataset original y archivos procesados
-│   └── spotify_tracks.csv
-├── reports/                # Documentos, reportes y presentaciones finales
-│   └── report_semana1.pdf  # Reporte inicial de la Semana 1
-├── README.md               # Este documento
-└── video_explicativo.url   # Enlace al video de la presentación
+notebooks/              # Jupyter notebooks con el código de análisis y modelado
+└── tarea1_eda.ipynb    # Notebook de la Semana 1 con el EDA inicial
+data/                   # Dataset original y archivos procesados
+└── spotify_tracks.csv
+reports/                # Documentos, reportes y presentaciones finales
+└── report_semana1.pdf  # Reporte inicial de la Semana 1
+README.md               # Este documento
+video_explicativo.url   # Enlace al video de la presentación
 
 
 ## 3. Uso y Contenido

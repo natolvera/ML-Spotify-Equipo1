@@ -16,6 +16,7 @@ Este repositorio está organizado para facilitar la navegación y la reproducibi
 notebooks/              # Jupyter notebooks con el código de análisis y modelado\
 └── tarea1_eda.ipynb    # Notebook de la Semana 1 con el EDA inicial\
 └── complementacion_del_dataset.ipynb    # Proceso de complementación del dataset\
+└── tarea2.ipynb    # Notebook de la Semana 2 con la limpieza de los datos\
 data/                   # Dataset original y archivos procesados\
 └── dataset.csv\
 └── spotify_dataset_mod.csv #dataset modificado, con fechas de las canciones\
@@ -26,32 +27,7 @@ README.md               # Este documento\
 video_explicativo.url   # Enlace a los videos de explicación de las entregas\
 
 
-## 3. Uso y Contenido
-El proyecto se divide en varias etapas, cada una representada por un entregable. A continuación, se detalla el contenido principal del repositorio:
-
-notebooks/tarea1_eda.ipynb:
-
-Carga y descripción básica del dataset de Spotify.
-
-Análisis de valores faltantes y estadísticas descriptivas de variables clave.
-
-Visualizaciones iniciales para explorar la distribución de la popularidad y su relación con otras variables. 
-
-Resumen de los hallazgos iniciales y desafíos del dataset.
-
-data/spotify_tracks.csv:
-
-El dataset original con más de 114,000 pistas de Spotify. Contiene variables como name, artists, genre, popularity y las audio features relevantes.
-
-reports/report_semana1.pdf:
-
-Documento PDF con la motivación del proyecto, la pregunta de investigación, la variable objetivo (popularity), un diccionario de variables y los riesgos/limitaciones identificados en la fase inicial.
-
-video_explicativo.url:
-
-Enlace al video explicativo individual donde cada miembro del equipo justifica la elección del dataset y resume los hallazgos clave del EDA.
-
-## 4. Contribuciones y Contacto
+## 3. Contribuciones y Contacto
 Este proyecto fue desarrollado por el equipo 1 para el curso TC3006C.
 Para cualquier pregunta o sugerencia, no dudes en contactarnos.
 

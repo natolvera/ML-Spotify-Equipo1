@@ -15,12 +15,15 @@ Este repositorio está organizado para facilitar la navegación y la reproducibi
 
 notebooks/              # Jupyter notebooks con el código de análisis y modelado\
 └── tarea1_eda.ipynb    # Notebook de la Semana 1 con el EDA inicial\
+└── complementacion_del_dataset.ipynb    # Proceso de complementación del dataset\
 data/                   # Dataset original y archivos procesados\
 └── dataset.csv\
+└── spotify_dataset_mod.csv #dataset modificado, con fechas de las canciones\
 reports/                # Documentos, reportes y presentaciones finales\
 └── report_semana1.pdf  # Reporte inicial de la Semana 1\
+└── report_semana2.pdf  # Reporte de la Semana 2\
 README.md               # Este documento\
-video_explicativo.url   # Enlace al video de la presentación\
+video_explicativo.url   # Enlace a los videos de explicación de las entregas\
 
 
 ## 3. Uso y Contenido
